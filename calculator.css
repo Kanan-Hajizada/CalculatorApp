@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("m2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 0px;
+}
+
+
+h4 {
+    font-style: inherit;
+    margin: 10px;
+    padding: 0px;
+    font-size: 58px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+    font-size: 35px;
+    margin-bottom: 17px;
+    width: 355px;
+    height: 55px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 53px;
+}
+
+.divcal button {
+    width: 83px;
+    height: 55px;
+    margin: 2px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 44px;
+}
+
+.divcal button {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.divcal button {
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background: blue;
+    color: white;
+}
+
+#ebtn {
+    font-weight: bold;
+}
